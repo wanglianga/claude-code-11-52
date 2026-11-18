@@ -1,0 +1,8 @@
+**/node_modules
+**/__pycache__
+**/.venv
+**/dist
+.git
+.npm-cache
+.pw-browsers
+backend/.pytest_cache
